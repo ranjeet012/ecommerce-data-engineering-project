@@ -32,7 +32,7 @@ print("\nFirst 5 Rows:")
 print(df.head())
 #creating python to sql database connection
 username = 'root'
-password = quote_plus("Ranjeet@143")
+password = quote_plus("Your Mysql Database Password")
 host = 'localhost'
 port = '3306'
 database = 'ecommerce_project'
